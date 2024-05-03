@@ -36,6 +36,4 @@ The `main.py` script initiates the following processes:
 4. Automated Dispute Response: Checks for disputes and sends automated responses if necessary.
 5. Sleep Cycle: Pauses execution for 1 hour before repeating the process.
 
-## Authors
-- [Kamil Wojcieszak](https://github.com/Kamil-Wojcieszak/) - Student at Wroclaw University of Science and Technology
 
